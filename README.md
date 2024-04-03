@@ -35,7 +35,7 @@ The purpose of this project use the features in the provided dataset to create a
 ![Alt text](Images/image-3.png)
 
 
-### Attempt #3¶
+### Attempt #3
 - Edited feature cutoffs.
 - Added more nodes to existing layers
 - Added sigmoid function onto hidden layer
